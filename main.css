@@ -27,3 +27,13 @@ p {
 p:first-child {
   text-transform: uppercase;
 }
+
+.lang {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  padding: 40px 5px 0;
+  width: 50px;
+}
